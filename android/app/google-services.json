@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656241777600",
+    "project_id": "woodlandshkadmin",
+    "storage_bucket": "woodlandshkadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656241777600:android:b71c5091234b8ce98ec625",
+        "android_client_info": {
+          "package_name": "com.costcointernational.woodlandshk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656241777600-qh1nemscgumrm4nias3jljdvjrsnv8f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxAPhp1m8x_HtHOeCKCr8t76J-6G64Qoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656241777600-qh1nemscgumrm4nias3jljdvjrsnv8f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
